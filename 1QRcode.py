@@ -1,3 +1,4 @@
+# you can generate a qr code using this code.
 import qrcode
 import image
 var1=input("Enter any text here: ")

@@ -1,3 +1,4 @@
+# put the url link and that yt video will be automatically downloaded on your desktop.
 from pytube import YouTube
 
 url=input("Enter your url link:  ")

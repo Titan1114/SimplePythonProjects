@@ -1,3 +1,4 @@
+# we can automate the famous google dinosaur game using this code.
 import pyautogui
 from PIL import Image,ImageGrab
 import time

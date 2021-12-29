@@ -1,3 +1,4 @@
+# we can download anyone insta dp using their username with this code.
 import instaloader
 
 insta= instaloader.Instaloader()
